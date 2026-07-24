@@ -20,7 +20,7 @@ export function tryFindKey(keyPath, data) {
 
 // format input string to Experience translation key path
 //  - i.e. "Country (Impulse)/label" should become "Country+%28Impulse%29/label"
-//  - can mostly get there with escape() it seems like, just need to manually replaces " " with "+" first
+//  - can mostly get there with escape() it seems like, just need to manually replace " " with "+" first
 export function formatToKeyPath(input) {
     let formattedPath = input.replaceAll(" ", "+");
     return escape(formattedPath);

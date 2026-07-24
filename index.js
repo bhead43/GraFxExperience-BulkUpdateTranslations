@@ -6,7 +6,7 @@ import * as utils from "./utils.js";
 const main = async () => {
     // read config data
     const config = JSON.parse(await readFile("./config.json", "utf-8"));
-    const errorLogName = `${config.templateId}_${new Date(Date.now()).getDate()}`;
+    const errorLogName = `${config.templateId}_${new Date(Date.now())}`;
     const cacheTranslationName = `${config.templateId}_translations.json`;
 
     // gather variable labels from template JSON
@@ -45,7 +45,7 @@ const main = async () => {
 
     // for each variableLabel, find the corresponding Experience translation key and patch its value
     //  - using standard for loop to make it much easier to process one variable label at a time
-    //  - in order to not overwhelm Kadanza servers
+    //      in order to not overwhelm Kadanza servers
     for (let i = 0; i < variableLabels.length; i++) {
         const experienceKeyId = utils.tryFindKey(
             variableLabels[i].name,
@@ -55,14 +55,8 @@ const main = async () => {
             const errorMessage = `Could not find key by name: ${variableLabels[i].name}`;
             await utils.writeToErrorLog(errorLogName, errorMessage);
         } else {
-            console.log(`\nMatched ${variableLabels[i].name} to ${experienceKeyId}!`);
-            const data = { "translations": {} };
-            data.translations[locale] = {
-                "locale": locale,
-                "value": variableLabels[i].label
-            };
             const translationPatchResponse = await web.patchTranslationKey(experienceKeyId, variableLabels[i].label, config.tenant, config.token);
-            if (translationPatchResponse !== 200) {
+            if (translationPatchResponse.status !== 200) {
                 const errorMessage = `Failed to patch translation key at ID: ${experienceKeyId}\n\tAttempted to patch value to: ${variableLabels[i].label}`;
                 await utils.writeToErrorLog(errorLogName, errorMessage);
             }
