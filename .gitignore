@@ -1,2 +1,2 @@
-./out
-.package-lock.json
+out/
+package-lock.json
