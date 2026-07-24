@@ -1,0 +1,604 @@
+{
+    "items": [
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/488656fa-7400-11f1-8d33-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/2083bb3d134b51125c4f",
+                    "locale": "en-US",
+                    "id": "4886b67c-7400-11f1-aa70-820db014bbf9",
+                    "value": "Country (Impulse)"
+                }
+            },
+            "id": "488656fa-7400-11f1-8d33-820db014bbf9",
+            "path": "Country+%28Impulse%29\/label",
+            "name": "label",
+            "level": 1,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Country (Impulse)",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/489a8dbe-7400-11f1-a324-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/d02aaf96b70ceceb2b01",
+                    "locale": "en-US",
+                    "id": "489a9840-7400-11f1-a2e3-820db014bbf9",
+                    "value": "M\u00e9xico"
+                }
+            },
+            "id": "489a8dbe-7400-11f1-a324-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/mexico",
+            "name": "mexico",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "M\u00e9xico",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/489f678a-7400-11f1-a226-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/62c0c12e9391e6be3963",
+                    "locale": "en-US",
+                    "id": "489f71c6-7400-11f1-9b0c-820db014bbf9",
+                    "value": "Brasil"
+                }
+            },
+            "id": "489f678a-7400-11f1-a226-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/brasil",
+            "name": "brasil",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Brasil",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48a43b8e-7400-11f1-bc01-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/a5a46dd8184114314c80",
+                    "locale": "en-US",
+                    "id": "48a445e8-7400-11f1-b188-820db014bbf9",
+                    "value": "Rep\u00fablica Dominicana"
+                }
+            },
+            "id": "48a43b8e-7400-11f1-bc01-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/republica_dominicana",
+            "name": "republica_dominicana",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Rep\u00fablica Dominicana",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48a8f8e0-7400-11f1-9ddf-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/1e32d84dcb2f2af160fc",
+                    "locale": "en-US",
+                    "id": "48a903a8-7400-11f1-aa3f-820db014bbf9",
+                    "value": "Jamaica"
+                }
+            },
+            "id": "48a8f8e0-7400-11f1-9ddf-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/jamaica",
+            "name": "jamaica",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Jamaica",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48adcb86-7400-11f1-b93e-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/e7aea8c14dad4bb48e96",
+                    "locale": "en-US",
+                    "id": "48add64e-7400-11f1-ad27-820db014bbf9",
+                    "value": "Aruba"
+                }
+            },
+            "id": "48adcb86-7400-11f1-b93e-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/aruba",
+            "name": "aruba",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Aruba",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48b286f8-7400-11f1-a0ba-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/3c05e188f84d88862463",
+                    "locale": "en-US",
+                    "id": "48b29134-7400-11f1-957b-820db014bbf9",
+                    "value": "Bahamas"
+                }
+            },
+            "id": "48b286f8-7400-11f1-a0ba-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/bahamas",
+            "name": "bahamas",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Bahamas",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48b74026-7400-11f1-bc00-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/fa2a75b73142107fdfd2",
+                    "locale": "en-US",
+                    "id": "48b74af8-7400-11f1-90de-820db014bbf9",
+                    "value": "Trinidad y Tobago"
+                }
+            },
+            "id": "48b74026-7400-11f1-bc00-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/trinidad_tobago",
+            "name": "trinidad_tobago",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Trinidad y Tobago",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48bbf422-7400-11f1-9ecf-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/6883f1e1d52c07d6de8a",
+                    "locale": "en-US",
+                    "id": "48bbfeea-7400-11f1-9e2c-820db014bbf9",
+                    "value": "Costa Rica"
+                }
+            },
+            "id": "48bbf422-7400-11f1-9ecf-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/costa_rica",
+            "name": "costa_rica",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Costa Rica",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48c0aecc-7400-11f1-b8ce-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/ce7ed0375db3c4897e7e",
+                    "locale": "en-US",
+                    "id": "48c0b976-7400-11f1-aae1-820db014bbf9",
+                    "value": "El Salvador"
+                }
+            },
+            "id": "48c0aecc-7400-11f1-b8ce-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/el_salvador",
+            "name": "el_salvador",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "El Salvador",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48c59eaa-7400-11f1-af19-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/119ce8472d299b57c909",
+                    "locale": "en-US",
+                    "id": "48c5ba20-7400-11f1-ba92-820db014bbf9",
+                    "value": "Guatemala"
+                }
+            },
+            "id": "48c59eaa-7400-11f1-af19-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/guatemala",
+            "name": "guatemala",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Guatemala",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48ca826c-7400-11f1-b530-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/f5f74fd62512c1b4d209",
+                    "locale": "en-US",
+                    "id": "48ca9108-7400-11f1-90a4-820db014bbf9",
+                    "value": "Honduras"
+                }
+            },
+            "id": "48ca826c-7400-11f1-b530-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/honduras",
+            "name": "honduras",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Honduras",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48d052e6-7400-11f1-a7be-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/e35422a9f9fcfbb3836c",
+                    "locale": "en-US",
+                    "id": "48d06100-7400-11f1-a594-820db014bbf9",
+                    "value": "Nicaragua"
+                }
+            },
+            "id": "48d052e6-7400-11f1-a7be-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/nicaragua",
+            "name": "nicaragua",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Nicaragua",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48d50ec6-7400-11f1-91fc-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/c1b563a9c5c55aa73d04",
+                    "locale": "en-US",
+                    "id": "48d51a88-7400-11f1-b4cd-820db014bbf9",
+                    "value": "Colombia"
+                }
+            },
+            "id": "48d50ec6-7400-11f1-91fc-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/colombia",
+            "name": "colombia",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Colombia",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48d9cc18-7400-11f1-8be8-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/b283a7571090e640dc95",
+                    "locale": "en-US",
+                    "id": "48d9db0e-7400-11f1-b417-820db014bbf9",
+                    "value": "Per\u00fa"
+                }
+            },
+            "id": "48d9cc18-7400-11f1-8be8-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/peru",
+            "name": "peru",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Per\u00fa",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48dea72e-7400-11f1-a7f9-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/c2eea126528c9cc203a3",
+                    "locale": "en-US",
+                    "id": "48deb232-7400-11f1-aaeb-820db014bbf9",
+                    "value": "Argentina"
+                }
+            },
+            "id": "48dea72e-7400-11f1-a7f9-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/argentina",
+            "name": "argentina",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Argentina",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48e36b88-7400-11f1-ba0e-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/9bd2015a58cab89e643e",
+                    "locale": "en-US",
+                    "id": "48e37736-7400-11f1-a8d5-820db014bbf9",
+                    "value": "Bolivia"
+                }
+            },
+            "id": "48e36b88-7400-11f1-ba0e-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/bolivia",
+            "name": "bolivia",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Bolivia",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48e821fa-7400-11f1-9afe-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/7923735b3de13dbd2097",
+                    "locale": "en-US",
+                    "id": "48e82cea-7400-11f1-8fa0-820db014bbf9",
+                    "value": "Chile"
+                }
+            },
+            "id": "48e821fa-7400-11f1-9afe-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/chile",
+            "name": "chile",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Chile",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48ecd290-7400-11f1-84c6-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/fcf42b8ff43bd5f39851",
+                    "locale": "en-US",
+                    "id": "48ecde2a-7400-11f1-ad6d-820db014bbf9",
+                    "value": "Paraguay"
+                }
+            },
+            "id": "48ecd290-7400-11f1-84c6-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/paraguay",
+            "name": "paraguay",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Paraguay",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48f19744-7400-11f1-a41f-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/9f73aaa1fc40a1494f4c",
+                    "locale": "en-US",
+                    "id": "48f1a0f4-7400-11f1-a9c4-820db014bbf9",
+                    "value": "Uruguay"
+                }
+            },
+            "id": "48f19744-7400-11f1-a41f-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/uruguay",
+            "name": "uruguay",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Uruguay",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48f65a54-7400-11f1-8b10-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/19b9f0dda6af2029c958",
+                    "locale": "en-US",
+                    "id": "48f66634-7400-11f1-83a4-820db014bbf9",
+                    "value": "Antigua y Barbuda"
+                }
+            },
+            "id": "48f65a54-7400-11f1-8b10-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/antigua_barbuda",
+            "name": "antigua_barbuda",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Antigua y Barbuda",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48fb2b9c-7400-11f1-b794-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/aa1144f892af3d666ec2",
+                    "locale": "en-US",
+                    "id": "48fb3600-7400-11f1-95d8-820db014bbf9",
+                    "value": "Belize"
+                }
+            },
+            "id": "48fb2b9c-7400-11f1-b794-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/belize",
+            "name": "belize",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Belize",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/48ffd732-7400-11f1-bb0c-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/2e5a123413e996438996",
+                    "locale": "en-US",
+                    "id": "48ffe4f2-7400-11f1-b23c-820db014bbf9",
+                    "value": "Hait\u00ed"
+                }
+            },
+            "id": "48ffd732-7400-11f1-bb0c-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/haiti",
+            "name": "haiti",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Hait\u00ed",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/490492fe-7400-11f1-8bb4-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/c833bb112587b0ced6a9",
+                    "locale": "en-US",
+                    "id": "49049d4e-7400-11f1-9df7-820db014bbf9",
+                    "value": "Barbados"
+                }
+            },
+            "id": "490492fe-7400-11f1-8bb4-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/barbados",
+            "name": "barbados",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Barbados",
+            "createdBy": null,
+            "updatedBy": null
+        },
+        {
+            "@id": "\/api\/extensions\/grafx\/template-keys\/490951b8-7400-11f1-b71e-820db014bbf9",
+            "@type": "TemplateKeyLeaf",
+            "translationStatus": 20.0,
+            "translations": {
+                "en-US": {
+                    "@type": "TemplateKeyTranslation",
+                    "@id": "\/api\/.well-known\/genid\/86fef283663a24c9f5f3",
+                    "locale": "en-US",
+                    "id": "49095cd0-7400-11f1-8499-820db014bbf9",
+                    "value": "Bermuda"
+                }
+            },
+            "id": "490951b8-7400-11f1-b71e-820db014bbf9",
+            "path": "Country+%28Impulse%29\/listItems\/bermuda",
+            "name": "bermuda",
+            "level": 2,
+            "type": "variable",
+            "createdAt": 1782767999000,
+            "updatedAt": 1784855430000,
+            "value": "Bermuda",
+            "createdBy": null,
+            "updatedBy": null
+        }
+    ]
+}
